@@ -1,0 +1,9 @@
+la ruta post/reporte sirve para recibir datos enviados por un usuario al 
+servidor.
+
+en este caso, recibe un mensaje y responde con un json que indica que el 
+reporte fue recibido correctamente.
+
+esta ruta podria servir en una aplicacion comunitaria para que las personas 
+envien reportes,quejas,sugerencias o informacion importante desde una 
+pagina web o aplicacion. 
